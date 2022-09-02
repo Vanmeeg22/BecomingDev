@@ -19,7 +19,7 @@ int main()
     }
     else
     {
-        c = (i % 2) ? "odd" : "even";
+        c = (i % 2) ? "odd" : "even";   //The address of *c is c. Hence, The ternary operation is stored in the address of *c.
         printf("%d is an %s number.", i, c);
     }
     
