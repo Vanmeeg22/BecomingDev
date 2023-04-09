@@ -10,4 +10,4 @@
 <ul>
   <li>Java: https://profuse-termite-2d8.notion.site/Java-programming-language-6727a57886e94f7bb1478e88e6a5fd7a</li>
 </ul>
-<p>You do not need any account to view my notes. All you have to do is just click on the link or copy the link and paste it in the URL search bar to view my notes.</p>
+<p>Click on the link to view my notes on the programming language you require. You do not need any account for the same.</p>
