@@ -1,5 +1,5 @@
 # Java Programming Language
 <p>Link to my Java notes:</p>
 <ul>
-  <li>Java: https://profuse-termite-2d8.notion.site/Java-programming-language-6727a57886e94f7bb1478e88e6a5fd7a</li>
+  <li>Java: https://steadfast-orbit-09d.notion.site/Java-programming-a4c8e59b7b6b4d53bee97c8d8bea844d</li>
 </ul>
